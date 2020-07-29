@@ -73,7 +73,7 @@
                             <a href="/blog-list">Blog </i></a>
                         </li>
 						<li>
-								<a href="{{route('pagee')}}" target="_blank">Admin</a>
+								<a href="doctor-dashboard" >Admin</a>
 							</li>
 						</ul>		 
 					</div>		 

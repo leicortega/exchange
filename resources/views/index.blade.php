@@ -419,7 +419,7 @@
 				
 					<!-- Section Header -->
 					<div class="section-header text-center">
-						<h2>Blogs and News</h2>
+						<h2>Blogs y Noticias</h2>
 						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 					</div>
 					<!-- /Section Header -->
@@ -439,7 +439,7 @@
 												<a href="profile"><img src="assets/img/doctors/doctor-thumb-01.jpg" alt="Post Author"> <span>Dr. Ruby Perrin</span></a>
 											</div>
 										</li>
-										<li><i class="far fa-clock"></i> 4 Dec 2019</li>
+										<li><i class="far fa-clock"></i> 4 Jul 2020</li>
 									</ul>
 									<h3 class="blog-title"><a href="blog-details">Doccure – Making your clinic painless visit?</a></h3>
 									<p class="mb-0">Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
@@ -462,7 +462,7 @@
 												<a href="profile"><img src="assets/img/doctors/doctor-thumb-02.jpg" alt="Post Author"> <span>Dr. Darren Elder</span></a>
 											</div>
 										</li>
-										<li><i class="far fa-clock"></i> 3 Dec 2019</li>
+										<li><i class="far fa-clock"></i> 3 Abr 2020</li>
 									</ul>
 									<h3 class="blog-title"><a href="blog-details">What are the benefits of Online Doctor Booking?</a></h3>
 									<p class="mb-0">Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
@@ -485,7 +485,7 @@
 												<a href="profile"><img src="assets/img/doctors/doctor-thumb-03.jpg" alt="Post Author"> <span>Dr. Deborah Angel</span></a>
 											</div>
 										</li>
-										<li><i class="far fa-clock"></i> 3 Dec 2019</li>
+										<li><i class="far fa-clock"></i> 3 May 202</li>
 									</ul>
 									<h3 class="blog-title"><a href="blog-details">Benefits of consulting with an Online Doctor</a></h3>
 									<p class="mb-0">Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
@@ -508,7 +508,7 @@
 												<a href="profile"><img src="assets/img/doctors/doctor-thumb-04.jpg" alt="Post Author"> <span>Dr. Sofia Brient</span></a>
 											</div>
 										</li>
-										<li><i class="far fa-clock"></i> 2 Dec 2019</li>
+										<li><i class="far fa-clock"></i> 2 Jun 2020</li>
 									</ul>
 									<h3 class="blog-title"><a href="blog-details">5 Great reasons to use an Online Doctor</a></h3>
 									<p class="mb-0">Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.</p>
@@ -519,7 +519,7 @@
 						</div>
 					</div>
 					<div class="view-all text-center"> 
-						<a href="blog-list" class="btn btn-primary">View All</a>
+						<a href="blog-list" class="btn btn-primary">Ver mas</a>
 					</div>
 				</div>
 			</section>
